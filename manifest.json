@@ -1,0 +1,26 @@
+{
+    "name":"TO-DO-LIST-MASTER",
+    "short_name":"List-Master",
+    "icons":[
+        {
+            "src":"./img/Icon(192.png).png",
+            "sizes":"192x192",
+            "type":"image/png"
+        },
+        {
+            "src":"./img/Icon(384.png).png",
+            "sizes":"384x384",
+            "type":"image/png"
+        },
+        {
+            "src":"./img/ToDoIT(512).png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "orientarion":"potrait"
+
+}
